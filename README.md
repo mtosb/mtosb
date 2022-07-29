@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @mtosb
-- 🌱 I’m currently learning c++
+
+- Currently learning c++
 - I do ASCII art sometimes
 - Discord-StrongSand#1966
 
